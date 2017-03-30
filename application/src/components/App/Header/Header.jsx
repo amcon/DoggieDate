@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router';
 import styles from './Header.css';
-import logo from "./../../../../assets/DoggieDateLogo.png";
+import logo from "./../../../../assets/DoggieDate_Full.png";
 import iconG from "./../../../../assets/icon-global.png";
 import iconN from "./../../../../assets/icon-nearby.png";
 import iconM from "./../../../../assets/icon-match.png";

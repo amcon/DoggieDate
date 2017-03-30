@@ -28,6 +28,7 @@ app.use('/api/users', usersRoute);
 app.use('/api/dogs', dogsRoute);
 
 app.use(history())
+
 if(isDev) {
   app.use(logger('dev'))
   app.use(require("webpack-dev-middleware")(compiler, {

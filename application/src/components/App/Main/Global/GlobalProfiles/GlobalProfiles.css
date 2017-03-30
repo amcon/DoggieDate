@@ -36,6 +36,10 @@
   text-shadow: .4px .4px .2em black;
 }
 
+#text-member-link:hover {
+  cursor: pointer;
+}
+
 .globalusername {
   color: white;
 }
